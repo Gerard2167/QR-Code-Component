@@ -35,7 +35,7 @@ Al final debajo del contenedor una línea que indica de quién es el poryecto y 
 ### Enlaces
 
 - URL de la solución:(https://github.com/Gerard2167/QR-Code-Component.git)
-- URL del sitio en vivo: [Agregue la URL del sitio en vivo aquí] (https://your-live-site-url.com)
+- URL del sitio en vivo:(https://gerard2167.github.io/QR-Code-Component/))
 
 ## Mi proceso
 
