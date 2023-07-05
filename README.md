@@ -11,7 +11,7 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
    - [Captura de pantalla](#captura-de-pantalla)
    - [Enlaces](#enlaces)
 - [Mi proceso](#mi-proceso)
-   - [Construido con](#construido con)
+   - [Construido con](#construido-con)
    - [Lo que aprendí](#lo-que-aprendí)
    - [Desarrollo continuo](#desarrollo-continuo)
    - [Recursos útiles](#recursos-útiles)
